@@ -17,6 +17,8 @@ while flag:
         print("paper - better luck next time!")
     elif answer == "gun":
         print("I surrender!")
+        flag = False
+        print("you win! (but at what cost?)")
     elif answer == "no":
         print("yes")
     elif answer == "cheese":
