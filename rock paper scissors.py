@@ -23,5 +23,9 @@ while flag:
         print("burger - with fries please")
     elif answer == "yes":
         print("no")
+    elif answer == "apple":
+        print("orange")
+    elif answer == "orange":
+        print("apple")
     else:
         print(string5)
