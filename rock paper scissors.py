@@ -29,7 +29,7 @@ while flag:
         print("orange")
     elif answer == "orange":
         print("apple")
-    elif answer == "alphabet":
+    elif answer == ("alphabet"):
         print("soup")
 
     elif answer == "a":
