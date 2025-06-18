@@ -29,5 +29,60 @@ while flag:
         print("orange")
     elif answer == "orange":
         print("apple")
+    elif answer == "alphabet":
+        print("soup")
+
+    elif answer == "a":
+        print("b")
+    elif answer == "b":
+        print("c")
+    elif answer == "c":
+        print("d")
+    elif answer == "d":
+        print("e")
+    elif answer == "e":
+        print("f")
+    elif answer == "f":
+        print("g")
+    elif answer == "g":
+        print("h")
+    elif answer == "h":
+        print("i")
+    elif answer == "i":
+        print("j")
+    elif answer == "j":
+        print("k")
+    elif answer == "k":
+        print("l")
+    elif answer == "l":
+        print("m")
+    elif answer == "m":
+        print("n")
+    elif answer == "n":
+        print("o")
+    elif answer == "o":
+        print("p")
+    elif answer == "p":
+        print("q")
+    elif answer == "q":
+        print("r")
+    elif answer == "r":
+        print("s")
+    elif answer == "s":
+        print("t")
+    elif answer == "t":
+        print("u")
+    elif answer == "u":
+        print("v")
+    elif answer == "v":
+        print("w")
+    elif answer == "w":
+        print("x")
+    elif answer == "x":
+        print("y")
+    elif answer == "y":
+        print("z")
+    elif answer == "z":
+        print("https://en.wikipedia.org/wiki/Z")
     else:
         print(string5)
